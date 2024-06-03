@@ -1,0 +1,40 @@
+.login-form {
+    border: 1px solid #ccc;
+    padding: 40px;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+.login-form h3 {
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+.login-form form div {
+    margin-bottom: 15px;
+}
+
+.login-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.login-form input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.login-form button {
+    padding: 15px 25px;
+    background-color: #00692f;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.login-form button:hover {
+    background-color: #00b33c;
+}
